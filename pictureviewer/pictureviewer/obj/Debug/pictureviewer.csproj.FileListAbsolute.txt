@@ -1,0 +1,26 @@
+c:\users\demi\documents\visual studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csprojResolveAssemblyReference.cache
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.Cache
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\af\pictureviewer.resources.dll
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\af\pictureviewer.resources.dll
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form2.resources
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Pictureviewer_form.resources
+C:\Users\Demi\Documents\Visual Studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Pictureviewer_form.af.resources
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\bin\Debug\af\pictureviewer.resources.dll
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csprojResolveAssemblyReference.cache
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Pictureviewer_form.resources
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form2.resources
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Pictureviewer_form.af.resources
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.Cache
+C:\Users\Demi\Desktop\pictureviewer\pictureviewer\obj\Debug\af\pictureviewer.resources.dll
